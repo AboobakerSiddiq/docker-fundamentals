@@ -20,3 +20,5 @@
 | docker stats | Display a live stream of container(s) resource usage statistics |
 | docker top container-id or name | Display the running processes of a container |
 | docker version | Show the Docker version information |
+| docker tag docketpoc:dev aboobakersiddiqr01/dotnet-poc:v3-release | to change the tag name before pushing to remote repo |
+| docker push aboobakersiddiqr01/dotnet-poc:v3-release | push command to push the code the remote repo |
